@@ -2,3 +2,8 @@
     display: flex;
     align-items: center;
 }
+
+[class*="visual-refresh"] svg[style*="scale: 1.2;"] {
+	width: 24px;
+	height: 24px;
+}
