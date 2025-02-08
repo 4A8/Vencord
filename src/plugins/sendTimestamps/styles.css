@@ -42,3 +42,10 @@
 .vc-st-preview-text {
     margin-bottom: 1em;
 }
+
+html[class*="visual-refresh"] svg[style="scale: 1.2;"] {
+    width: 20px;
+    height: 20px;
+    scale: 
+}
+
