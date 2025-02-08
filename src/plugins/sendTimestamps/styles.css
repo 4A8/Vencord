@@ -12,6 +12,11 @@
     font-size: 100%;
 }
 
+[class*="visual-refresh"] .vc-chatbar-button {
+    width: 24px;
+    height: 24px;
+}
+
 .vc-st-format-select {
     margin-bottom: 1em;
 
